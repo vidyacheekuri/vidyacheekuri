@@ -1,8 +1,8 @@
 # Hi there, I'm Sree Vidya Cheekuri! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
 <p>
-  &nbsp; <img src="https://img.shields.io/badge/Lives-Houston, TX-blue" alt="Lives in Houston, TX" />
-  &nbsp; <img src="https://img.shields.io/badge/Pronouns-She%2FHer-brightgreen" alt="Pronouns: She/Her" />
+  &nbsp; <img src="https://img.shields.io/badge/Lives-Texas, TX-blue" alt="Lives in Texas, USA" />
+  &nbsp; <img src="https://img.shields.io/badge/Speaks-English-brightgreen" alt="Speaks : English" />
 </p>
 
 ## About Me
@@ -39,6 +39,11 @@ Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer**. I'
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
 
+### Web Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
+
 ## Experience
 
 ### Machine Learning Research Assistant - University of Houston *(Nov 2024 - Present)*
@@ -67,12 +72,6 @@ Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer**. I'
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyacheekuri&layout=compact&theme=dark&count_private=true" alt="Top Languages" />
-</p>
-
-## Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vidyacheekuri/count.svg" alt="Visitor Count" />
 </p>
 
 ## Connect with Me
