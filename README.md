@@ -26,6 +26,12 @@ Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer**. I'
 
 ### AI/ML & Data Science
 
+**Key Concepts**
+<br>
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat)
+![Large Language Models](https://img.shields.io/badge/-Large%20Language%20Models-05122A?style=flat)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat)
+
 **Core Libraries & Data Manipulation**
 <br>
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
