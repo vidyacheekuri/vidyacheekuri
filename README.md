@@ -7,7 +7,7 @@
 
 ## About Me
 
-<img align="right" alt="About Me GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" height="350" />
+<img align="right" alt="About Me GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM5bTNwa2E0cm5lOGd0c3djMjVzd20yaGh3djAzYXFhbGdmY3l4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" height="350" />
 
 Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer**. I'm currently pursuing my **Master's in Engineering Data Science at the University of Houston**, where I focus on building intelligent systems that solve real-world problems. I am particularly interested in **computer vision, NLP, and deploying robust machine learning models**.
 
@@ -25,17 +25,26 @@ Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer**. I'
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### AI/ML & Data Science
-![Natural Language Processing]
-![Data Analysis]
-![Computer Vision]
-![Tranformer Models]
-![Large Language Models]
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)
+
+**Core Libraries & Data Manipulation**
+<br>
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)
+
+**Deep Learning & NLP**
+<br>
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=hugging-face)
+
+**Specialized Libraries**
+<br>
+![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
 
 ### Developer Tools & Cloud
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
