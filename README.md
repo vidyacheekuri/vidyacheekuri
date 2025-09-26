@@ -1,7 +1,7 @@
 # Hi there, I'm Sree Vidya Cheekuri! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
 <p>
-  &nbsp; <img src="https://img.shields.io/badge/Lives-Texas, TX-blue" alt="Lives in Texas, USA" />
+  &nbsp; <img src="https://img.shields.io/badge/Lives-Texas, USA-blue" alt="Lives in Texas, USA" />
   &nbsp; <img src="https://img.shields.io/badge/Speaks-English-brightgreen" alt="Speaks : English" />
 </p>
 
@@ -25,6 +25,11 @@ Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer**. I'
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### AI/ML & Data Science
+![Natural Language Processing]
+![Data Analysis]
+![Computer Vision]
+![Tranformer Models]
+![Large Language Models]
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)
